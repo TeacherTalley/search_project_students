@@ -18,7 +18,7 @@ As a software developer for **Bear Flix**, you have been asked to construct an e
 
 
 #### Project Details
-Your team will implement five search ADTs.  **You may use source from the Internet, but you must cite the source in your code and your final paper, as well as verify that it works properly.  You may not use any algorithms built directly into C++ unless explicitly stated.**
+Your team will implement five search ADTs.  **You may use source from the Internet (including AI), but you must cite the source in your code and your final paper, as well as verify that it works properly.  You may not use any algorithms built directly into C++ unless explicitly stated.**
 
 The four required search algorithms are:
 * Linear Search using **std::list**
@@ -36,7 +36,7 @@ One additional search ADT we have not talked about in class:
 Your team will design an experiment to compare the five different ADT's performance on three operations (insert, search, and delete) using three different data set sizes (ten thousand items, one million items and ten million items).  
 
 For each data set, your driver program will need to perform the following for each ADT.
-* insert: Read in the random values, convert to integer and insert into the ADT.  Do not insert duplicates. Report the total time for the inserts, the number of values successfully inserted, and the number of values that were not inserted.
+* insert: Read in the random values, convert to integer and insert into the ADT.  Report the total time for the inserts, the number of values successfully inserted, and the number of values that were not inserted.
 * search: Read in the search values, convert to integer and search for the values in the ADT (created in the insert step).  Report the total time for the searches, the number of values successfully found, and the number of values that were not found.
 * delete: Read in the delete values, convert to integer and delete from the ADT (created in the insert step).  Report the total time for the deletes, the number of values successfully deleted, and the number of values that were not deleted.
 
@@ -84,9 +84,9 @@ You can do most of your work asynchronously. I recommend meeting as a team as so
 Teamwork is 20% of your grade for this project, so each person needs to contribute equally to the team. Each team member should use git to push changes to the repository and pull changes from the repository as you are working on the project.
 
 You may distribute the work how you want, but I am providing you this list to give you some ideas.  Please adjust as needed.
-* Team member 1: Implement the four required ADTs. Carefully test your algorithms on your own BEFORE integrating it into the experiment.
-* Team member 2: Research and implement the new ADT. Carefully test your algorithm on your own BEFORE integrating it into the experiment.
-* Team member 3: Create the experiment driver skeleton program that reads in the three files and is ready to call the ADTs when ready.  Implement timing code for each operation for each ADT.  
+* Team member 1: Implement the three of the required ADTs. Carefully test your algorithms on your own BEFORE integrating it into the experiment.
+* Team member 2: Research and implement the new ADT.  Carefully test your algorithm on your own BEFORE integrating it into the experiment.
+* Team member 3: Create the experiment driver skeleton program that reads in the three files and is ready to call the ADTs when ready.  Implement timing code for each operation for each ADT.  DO NOT leave this team member with all of the work of integration.  All team members should participate. 
 * All team members.  Integrate all code to work together (call ADTs for the provided data sets with run times).  Run experiment and collect data.
 * All team members: Create the project report and presentation slides.
 
@@ -107,7 +107,6 @@ Your grade is based on the team’s final product, so every team member is respo
 | Documentation (20 pts) | The documentation is well written and clearly explains what the code is accomplishing and how. | The documentation consists of embedded comment and some simple header documentation that is somewhat useful in understanding the code. | The documentation is simply comments embedded in the code with some simple header comments separating routines. | The documentation is simply comments embedded in the code and does not help the reader understand the code. |
 
 *Programs that do not compile and execute will get 0 points.*
-
 ##### Project Report Rubric
 |             |                                                             Exceptional                      | Good                                                                                     | Basic                                                                                 | Unsatisfactory|
 | ----------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
