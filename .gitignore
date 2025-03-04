@@ -2,6 +2,7 @@
 #Project specific
 presentation_rubric.pdf
 
+*.txt
 # Visual Studio Code (Windows)
 /.DS_Store
 *.exe

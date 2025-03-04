@@ -5,9 +5,9 @@
 *  Enhance your understanding of search ADTs.
 *  Understand the implication of algorithm complexity (Big O) on search performance.
 *  Enhance your understanding of software development on a team
-*   Practice using git to manage your source code in a team.
+*  Practice using git to manage your source code in a team.
 *  Practice designing and creating an experiment.
-*   Practice organizing and presenting technical information.
+*  Practice organizing and presenting technical information.
 
 #### Project Overview
 As a software developer for **Bear Flix**, you have been asked to construct an experiment to determine the best search ADT to use for storing, searching, and deleting movie data.  You and your team must present your findings and recommendations to the lead architect and provide a recommendation for which data structure to choose.
@@ -84,7 +84,7 @@ You can do most of your work asynchronously. I recommend meeting as a team as so
 Teamwork is 20% of your grade for this project, so each person needs to contribute equally to the team. Each team member should use git to push changes to the repository and pull changes from the repository as you are working on the project.
 
 You may distribute the work how you want, but I am providing you this list to give you some ideas.  Please adjust as needed.
-* Team member 1: Implement the three of the required ADTs. Carefully test your algorithms on your own BEFORE integrating it into the experiment.
+* Team member 1: Implement the four required ADTs. Carefully test your algorithms on your own BEFORE integrating it into the experiment.
 * Team member 2: Research and implement the new ADT.  Carefully test your algorithm on your own BEFORE integrating it into the experiment.
 * Team member 3: Create the experiment driver skeleton program that reads in the three files and is ready to call the ADTs when ready.  Implement timing code for each operation for each ADT.  DO NOT leave this team member with all of the work of integration.  All team members should participate. 
 * All team members.  Integrate all code to work together (call ADTs for the provided data sets with run times).  Run experiment and collect data.
