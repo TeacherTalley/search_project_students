@@ -18,7 +18,7 @@ As a software developer for **Bear Flix**, you have been asked to construct an e
 
 
 #### Project Details
-Your team will implement five search ADTs.  **You may use source from the Internet (including AI), but you must cite the source in your code and your final paper, as well as verify that it works properly.  You may not use any algorithms built directly into C++ unless explicitly stated.**
+Your team will implement five search ADTs.  **You may use source from the Internet (including AI) for your ADTs ONLY, but you must cite the source in your code and your final paper, as well as verify that it works properly.  You may not use any algorithms built directly into C++ unless explicitly stated.**
 
 The four required search algorithms are:
 * Linear Search using **std::list**
@@ -33,7 +33,7 @@ One additional search ADT we have not talked about in class:
 * B+ Trees
 * Others you find on the Internet
 
-Your team will design an experiment to compare the five different ADT's performance on three operations (insert, search, and delete) using three different data set sizes (ten thousand items, one million items and ten million items).  
+Your team will design an experiment to compare the five different ADT's performance on three operations (insert, search, and delete) using three different data set sizes (ten thousand items, one million items and ten million items).  **You may NOT use AI to generate your experiment driver (and I will know if you do).**
 
 For each data set, your driver program will need to perform the following for each ADT.
 * insert: Read in the random values, convert to integer and insert into the ADT.  Report the total time for the inserts, the number of values successfully inserted, and the number of values that were not inserted.
@@ -72,8 +72,8 @@ Everyone on the team must speak about the project.  You will be graded individua
 
 #### Team Tips
 You can do most of your work asynchronously. I recommend meeting as a team as soon as possible to determine your communication channel, assign tasks, and establish milestones and deadlines.  Example milestones might include the following:
-* Complete all ADTs.
-* Complete driver skeleton with file handling and timing.
+* Complete all ADTs. 
+* Complete driver skeleton with file handling and timing. **DO NOT use AI.**
 * Integrate ADTs and driver.
 * Run experiments.
 * Create graph/chart of results.
