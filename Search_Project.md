@@ -44,6 +44,8 @@ You may use your creativity to implement the driver code.  I recommend using [ch
 
 The datasets will be provided to you on Blackboard.
 
+Remember to capture and commit at least one run of your program.
+
 #### Project Report
 
 You will write one project report to explain your experiment and your results. Your report should provide a description of the experiment (including figures) and the results of your experiment.  It should include the following sections:
@@ -94,7 +96,7 @@ You may distribute the work how you want, but I am providing you this list to gi
 Your grade is based on the team’s final product, so every team member is responsible for evaluating the final product against the requirements and the rubrics.  You will also be graded individually as well.  This project is 10% of your grade for the course and worth 100 points. The points are allocated as follows:
 | Artifact | Percent of Grade |
 | -------- | ---------------- |
-| Source code | 30% |
+| Source code+sample output | 30% |
 | Project Report | 30% |
 | Team work (Team Report, Team Evaluation, GitHub) | 20% |
 | Presentation | 20% |
@@ -134,9 +136,9 @@ The due date is specified on Blackboard. This project is due at the beginning of
 
 #### Project Artifacts
 The following should be completed by the due date/time specified on Blackboard.
-* GitHub: Check in all source code changes to your GitHub repository.  Please check your URL using a web browser to verify that your changes have been synced.
+* GitHub: Check in all source code changes to your GitHub repository.  In addition, check in the output of at least one run of your program. Check your URL using a web browser to verify that your changes have been synced.
 * Google Folder: Ensure the project report and presentation slides are in the shared Google folder.
-* Blackboard: Source code URL and shared Google Folder URL (contains project report and presentation slides).
+* Brightspace: Source code URL and shared Google Folder URL (contains project report and presentation slides).
 * Google Forms: Team member evaluation for yourself and each team member.  Evaluations for team presentations and group name.  (Link available on Blackboard).
 
 
