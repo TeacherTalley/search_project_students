@@ -13,6 +13,7 @@ presentation_rubric.pdf
 *.sln
 *.vcxproj
 x64
+.vs
 
 # VS Code
 .vscode
