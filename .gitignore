@@ -17,6 +17,7 @@ x64
 
 # VS Code
 .vscode
+.vs
 Info.plist*
 
 # Build files
